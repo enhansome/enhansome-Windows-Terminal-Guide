@@ -59,7 +59,7 @@
 
 [Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents) ⭐ 112 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
 
-[Windows Terminal](https://github.com/microsoft/terminal) ⭐ 104,692 | 🐛 1,753 | 🌐 C++ | 📅 2026-08-25 is a new, modern, feature-rich, productive terminal application for command-line users. It includes many of the features most frequently requested by the Windows command-line community including support for tabs, rich text, globalization, configurability, theming & styling, and more. Take a look at the [Windows Terminal GitHub](https://github.com/Microsoft/Terminal) ⭐ 104,692 | 🐛 1,753 | 🌐 C++ | 📅 2026-08-25.
+[Windows Terminal](https://github.com/microsoft/terminal) ⭐ 104,698 | 🐛 1,763 | 🌐 C++ | 📅 2026-08-27 is a new, modern, feature-rich, productive terminal application for command-line users. It includes many of the features most frequently requested by the Windows command-line community including support for tabs, rich text, globalization, configurability, theming & styling, and more. Take a look at the [Windows Terminal GitHub](https://github.com/Microsoft/Terminal) ⭐ 104,698 | 🐛 1,763 | 🌐 C++ | 📅 2026-08-27.
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/143783143-265c9c5c-bc33-4742-99a5-655ed2a07150.png">
@@ -75,7 +75,7 @@
 
 [Git for Windows](https://gitforwindows.org) is a distributed version control system tool that focuses on offering a lightweight, native set of tools that bring the full feature set of the Git SCM to Windows while providing appropriate user interfaces for experienced Git users and novices alike.
 
-[Windows UI Library (WinUI)](https://docs.microsoft.com/en-us/windows/apps/winui/) is a native user experience (UX) framework for both Windows desktop and UWP applications. Take a look at the [Windows UI Library Roadmap](https://github.com/microsoft/microsoft-ui-xaml/blob/main/docs/roadmap.md) ⭐ 7,921 | 🐛 2,252 | 🌐 C++ | 📅 2026-08-25.
+[Windows UI Library (WinUI)](https://docs.microsoft.com/en-us/windows/apps/winui/) is a native user experience (UX) framework for both Windows desktop and UWP applications. Take a look at the [Windows UI Library Roadmap](https://github.com/microsoft/microsoft-ui-xaml/blob/main/docs/roadmap.md) ⭐ 7,928 | 🐛 2,261 | 🌐 C++ | 📅 2026-08-27.
 
 [Windows UI Library (WinUI) 2](https://docs.microsoft.com/en-us/windows/apps/winui/winui2/) is tightly integrated with [Windows 10 and later SDKs](https://developer.microsoft.com/windows/downloads/windows-10-sdk/) and provides official native Windows UI controls and other user interface elements for UWP applications (and desktop applications using [XAML Islands](https://docs.microsoft.com/en-us/windows/apps/desktop/modernize/xaml-islands)).
 
@@ -212,7 +212,7 @@ VS Code Marketplace
 
 ## WSL Learning Resources
 
-[WSL 2 Linux Kernel on GitHub](https://github.com/microsoft/WSL2-Linux-Kernel) ⭐ 10,540 | 🐛 134 | 🌐 C | 📅 2026-08-01 is the source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2).
+[WSL 2 Linux Kernel on GitHub](https://github.com/microsoft/WSL2-Linux-Kernel) ⭐ 10,543 | 🐛 134 | 🌐 C | 📅 2026-08-01 is the source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2).
 
 [WSLConf](https://www.youtube.com/playlist?list=PLwFSk464RMxnZkvZ1HKrlNyj-s6Zq4fWe) is a community-initiated event on all things Windows Subsystem for Linux and WSL-related.
 
@@ -264,9 +264,9 @@ VS Code Marketplace
 
 [Visual Studio Code Remote Development and GitHub Codespaces](https://github.com/Microsoft/vscode-dev-containers) ⚠️ Archived is a  repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces. A development container is a running [Docker](https://www.docker.com/) container with a well-defined tool/runtime stack and its prerequisites. The [VS Code Remote Containers](https://aka.ms/vscode-remote/download/containers) extension allows you to clone a repository or open any folder mounted into (or already inside) a dev container and take advantage of VS Code's full development feature set. [GitHub Codespaces](https://github.com/features/codespaces) both use this same concept to quickly create customized, cloud-based development environments accessible from VS Code or the web.
 
-[Windows Terminal](https://github.com/microsoft/terminal) ⭐ 104,692 | 🐛 1,753 | 🌐 C++ | 📅 2026-08-25 is a new, modern, feature-rich, productive terminal application for command-line users. It includes many of the features most frequently requested by the Windows command-line community including support for tabs, rich text, globalization, configurability, theming & styling, and more.
+[Windows Terminal](https://github.com/microsoft/terminal) ⭐ 104,698 | 🐛 1,763 | 🌐 C++ | 📅 2026-08-27 is a new, modern, feature-rich, productive terminal application for command-line users. It includes many of the features most frequently requested by the Windows command-line community including support for tabs, rich text, globalization, configurability, theming & styling, and more.
 
-[PowerShell Core](https://github.com/PowerShell/PowerShell) ⭐ 55,124 | 🐛 1,606 | 🌐 C# | 📅 2026-08-25 is a cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language and a framework for processing cmdlets.
+[PowerShell Core](https://github.com/PowerShell/PowerShell) ⭐ 55,135 | 🐛 1,606 | 🌐 C# | 📅 2026-08-26 is a cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language and a framework for processing cmdlets.
 
 [Docker Desktop WSL 2 backend](https://docs.docker.com/docker-for-windows/wsl/) creates an  architectural change that gvies a full Linux kernel built by Microsoft, allowing Linux containers to run natively without emulation. With Docker Desktop running on WSL 2, users can leverage Linux workspaces and avoid having to maintain both Linux and Windows build scripts. In addition, WSL 2 provides improvements to file system sharing, boot time, and allows access to some cool new features for Docker Desktop users.
 
@@ -433,7 +433,7 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 
 [Azure Key Vault Explorer](https://github.com/microsoft/AzureKeyVaultExplorer/blob/master/README.md) ⭐ 215 | 🐛 47 | 🌐 C# | 📅 2023-07-07  is a  client tool to help be productive when working with secrets.
 
-[Azurite](https://github.com/Azure/Azurite/blob/master/README.md) ⭐ 2,250 | 🐛 373 | 🌐 TypeScript | 📅 2026-08-25 is an open source Azure Storage API compatible server (emulator). Based on Node.js, Azurite provides cross platform experiences for customers wanting to try Azure Storage easily in a local environment. Azurite simulates most of the commands supported by Azure Storage with minimal dependencies.
+[Azurite](https://github.com/Azure/Azurite/blob/master/README.md) ⭐ 2,250 | 🐛 370 | 🌐 TypeScript | 📅 2026-08-26 is an open source Azure Storage API compatible server (emulator). Based on Node.js, Azurite provides cross platform experiences for customers wanting to try Azure Storage easily in a local environment. Azurite simulates most of the commands supported by Azure Storage with minimal dependencies.
 
 [Azure Cloud Shell](https://shell.azure.com/) is an interactive, authenticated, browser-accessible shell for managing Azure resources. It provides the flexibility of choosing the shell experience that best suits the way you work, either Bash or PowerShell.
 
@@ -600,7 +600,7 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 
 [AWS Amplify Command Line Interface (CLI)](https://docs.amplify.aws/cli) is a unified toolchain to create, integrate, and manage the AWS cloud services for your app.
 
-[AWS Serverless Application Model (SAM) CLI](https://github.com/aws/aws-sam-cli) ⭐ 6,731 | 🐛 536 | 🌐 Python | 📅 2026-08-25 is a command line tool for an open-source framework for building serverless applications. It provides shorthand syntax to express functions, APIs, databases, and event source mappings. With just a few lines of configuration, you can define the application you want and model it.
+[AWS Serverless Application Model (SAM) CLI](https://github.com/aws/aws-sam-cli) ⭐ 6,732 | 🐛 537 | 🌐 Python | 📅 2026-08-26 is a command line tool for an open-source framework for building serverless applications. It provides shorthand syntax to express functions, APIs, databases, and event source mappings. With just a few lines of configuration, you can define the application you want and model it.
 
 [AWS Copilot command line interface (CLI)](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Copilot.html) is a command line tool that simplifies building, releasing, and operating production-ready containerized applications on Amazon ECS from a local development environment. The AWS Copilot CLI aligns with developer workflows that support modern application best practices: from using infrastructure as code to creating a CI/CD pipeline provisioned on behalf of a user.
 
@@ -892,23 +892,23 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
 
 [Odo](https://odo.dev/) is a fast, iterative, and straightforward CLI tool for developers who write, build, and deploy applications on Kubernetes and OpenShift.
 
-[Kata Operator](https://github.com/openshift/kata-operator) ⭐ 50 | 🐛 39 | 🌐 Shell | 📅 2026-08-25 is an operator to perform lifecycle management (install/upgrade/uninstall) of [Kata Runtime](https://katacontainers.io/) on Openshift as well as Kubernetes cluster.
+[Kata Operator](https://github.com/openshift/kata-operator) ⭐ 50 | 🐛 40 | 🌐 Shell | 📅 2026-08-27 is an operator to perform lifecycle management (install/upgrade/uninstall) of [Kata Runtime](https://katacontainers.io/) on Openshift as well as Kubernetes cluster.
 
 [Thanos](https://thanos.io/) is a set of components that can be composed into a highly available metric system with unlimited storage capacity, which can be added seamlessly on top of existing Prometheus deployments.
 
-[OpenShift Hive](https://github.com/openshift/hive) ⭐ 275 | 🐛 8 | 🌐 Go | 📅 2026-08-25 is an operator which runs as a service on top of Kubernetes/OpenShift. The Hive service can be used to provision and perform initial configuration of OpenShift 4 clusters.
+[OpenShift Hive](https://github.com/openshift/hive) ⭐ 275 | 🐛 7 | 🌐 Go | 📅 2026-08-26 is an operator which runs as a service on top of Kubernetes/OpenShift. The Hive service can be used to provision and perform initial configuration of OpenShift 4 clusters.
 
 [Rook](https://rook.io/) is a tool that turns distributed storage systems into self-managing, self-scaling, self-healing storage services. It automates the tasks of a storage administrator: deployment, bootstrapping, configuration, provisioning, scaling, upgrading, migration, disaster recovery, monitoring, and resource management.
 
 [VMware Tanzu](https://tanzu.vmware.com/tanzu) is a centralized management platform for consistently operating and securing your Kubernetes infrastructure and modern applications across multiple teams and private/public clouds.
 
-[Kubespray](https://kubespray.io/) is a tool that combines Kubernetes and Ansible to easily install Kubernetes clusters that can be deployed on [AWS](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/aws.md) ⭐ 18,703 | 🐛 203 | 🌐 Jinja | 📅 2026-08-21, GCE, [Azure](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/azure.md) ⭐ 18,703 | 🐛 203 | 🌐 Jinja | 📅 2026-08-21, [OpenStack](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/openstack.md) ⭐ 18,703 | 🐛 203 | 🌐 Jinja | 📅 2026-08-21, [vSphere](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/vsphere.md) ⭐ 18,703 | 🐛 203 | 🌐 Jinja | 📅 2026-08-21, [Packet](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/packet.md) ⭐ 18,703 | 🐛 203 | 🌐 Jinja | 📅 2026-08-21 (bare metal), Oracle Cloud Infrastructure (Experimental), or Baremetal.
+[Kubespray](https://kubespray.io/) is a tool that combines Kubernetes and Ansible to easily install Kubernetes clusters that can be deployed on [AWS](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/aws.md) ⭐ 18,704 | 🐛 202 | 🌐 Jinja | 📅 2026-08-21, GCE, [Azure](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/azure.md) ⭐ 18,704 | 🐛 202 | 🌐 Jinja | 📅 2026-08-21, [OpenStack](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/openstack.md) ⭐ 18,704 | 🐛 202 | 🌐 Jinja | 📅 2026-08-21, [vSphere](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/vsphere.md) ⭐ 18,704 | 🐛 202 | 🌐 Jinja | 📅 2026-08-21, [Packet](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/packet.md) ⭐ 18,704 | 🐛 202 | 🌐 Jinja | 📅 2026-08-21 (bare metal), Oracle Cloud Infrastructure (Experimental), or Baremetal.
 
 [KubeInit](https://github.com/kubeinit/kubeinit) ⭐ 223 | 🐛 5 | 🌐 Python | 📅 2025-12-05 provides Ansible playbooks and roles for the deployment and configuration of multiple Kubernetes distributions.
 
 [Rancher](https://rancher.com/) is a complete software stack for teams adopting containers. It addresses the operational and security challenges of managing multiple Kubernetes clusters, while providing DevOps teams with integrated tools for running containerized workloads.
 
-[K3s](https://github.com/rancher/k3s) ⭐ 33,818 | 🐛 72 | 🌐 Go | 📅 2026-08-25 is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
+[K3s](https://github.com/rancher/k3s) ⭐ 33,828 | 🐛 73 | 🌐 Go | 📅 2026-08-25 is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
 
 [Helm](https://helm.sh/) is a Kubernetes Package Manager tool that makes it easier to install and manage Kubernetes applications.
 
@@ -1124,7 +1124,7 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
 
 [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/introduction) is a cross-platform .NET implementation for websites, servers, and console apps on Windows, Linux, and macOS.The .NET Framework supports websites, services, desktop apps, and more on Windows. Xamarin/Mono is a .NET implementation for running apps on all the major mobile operating systems.
 
-[.NET runtime](https://github.com/dotnet/runtime) ⭐ 18,226 | 🐛 7,596 | 🌐 C# | 📅 2026-08-25 is a collection of libraries and shared host (dotnet) installers for all supported platforms, as well as the sources to .NET runtime and libraries.
+[.NET runtime](https://github.com/dotnet/runtime) ⭐ 18,228 | 🐛 7,611 | 🌐 C# | 📅 2026-08-27 is a collection of libraries and shared host (dotnet) installers for all supported platforms, as well as the sources to .NET runtime and libraries.
 
 [ASP.NET Core](https://asp.net/) is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 
@@ -1146,7 +1146,7 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
 
 [IdentityServer](https://identityserver.io/) is a free, open source [OpenID Connect](https://openid.net/connect/) and [OAuth 2.0](https://tools.ietf.org/html/rfc6749) framework for ASP.NET Core. IdentityServer4 incorporates all the protocol implementations and extensibility points needed to integrate token-based authentication, single-sign-on and API access control in your applications.
 
-[ILSpy](https://github.com/icsharpcode/ILSpy) ⭐ 25,943 | 🐛 180 | 🌐 C# | 📅 2026-08-25 is the open-source .NET assembly browser and decompiler.
+[ILSpy](https://github.com/icsharpcode/ILSpy) ⭐ 25,954 | 🐛 184 | 🌐 C# | 📅 2026-08-26 is the open-source .NET assembly browser and decompiler.
 
 [Hangfire](https://www.hangfire.io/) is an easy way to perform background job processing in your .NET and .NET Core applications with no Windows Service or Task Scheduler required.
 
@@ -1156,7 +1156,7 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
 
 [Refit](https://reactiveui.github.io/refit/) is the automatic type-safe REST library for .NET Core, Xamarin and .NET.It's heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
 
-[MAUI](https://github.com/dotnet/maui) ⭐ 23,310 | 🐛 3,749 | 🌐 C# | 📅 2026-08-25 is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
+[MAUI](https://github.com/dotnet/maui) ⭐ 23,310 | 🐛 3,785 | 🌐 C# | 📅 2026-08-27 is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 
 [Quasar](https://github.com/quasar/Quasar) ⚠️ Archived is a fast and light-weight remote administration tool coded in C#. The usage ranges from user support through day-to-day administrative work to employee monitoring. Providing high stability and an easy-to-use user interface, Quasar is the perfect remote administration solution for you.
 
@@ -1208,7 +1208,7 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
 
 [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
 
-[MSBuild](https://github.com/dotnet/msbuild) ⭐ 5,546 | 🐛 1,684 | 🌐 C# | 📅 2026-08-25 is the build platform for .NET and Visual Studio. MSBuild, provides an XML schema for a project file that controls how the build platform processes and builds software. Visual Studio uses MSBuild to perform team builds through Azure DevOps Server, but MSBuild can run without Visual Studio.
+[MSBuild](https://github.com/dotnet/msbuild) ⭐ 5,547 | 🐛 1,686 | 🌐 C# | 📅 2026-08-27 is the build platform for .NET and Visual Studio. MSBuild, provides an XML schema for a project file that controls how the build platform processes and builds software. Visual Studio uses MSBuild to perform team builds through Azure DevOps Server, but MSBuild can run without Visual Studio.
 
 [Roslyn](https://docs.microsoft.com/dotnet/csharp/roslyn-sdk/) is a .NET compiler developed by Microsoft that provides C# and Visual Basic languages with rich code analysis APIs.
 
@@ -1244,9 +1244,9 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
 
 [ANTLR (ANother Tool for Language Recognition)](https://www.antlr.org/) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. It's widely used to build languages, tools, and frameworks. From a grammar, ANTLR generates a parser that can build parse trees and also generates a listener interface that makes it easy to respond to the recognition of phrases of interest.
 
-[AutoRest](https://github.com/Azure/autorest) ⭐ 4,798 | 🐛 22 | 🌐 TypeSpec | 📅 2026-08-12 is a tool generates client libraries for accessing RESTful web services using the [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification) ⭐ 31,180 | 🐛 81 | 🌐 Markdown | 📅 2026-08-24 format. It Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python, Ruby.
+[AutoRest](https://github.com/Azure/autorest) ⭐ 4,798 | 🐛 22 | 🌐 TypeSpec | 📅 2026-08-12 is a tool generates client libraries for accessing RESTful web services using the [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification) ⭐ 31,183 | 🐛 81 | 🌐 Markdown | 📅 2026-08-26 format. It Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python, Ruby.
 
-[Markdig](https://github.com/lunet-io/markdig) ⭐ 5,305 | 🐛 117 | 🌐 C# | 📅 2026-08-18 is a fast, powerful, [CommonMark](https://commonmark.org/) compliant, extensible Markdown processor for .NET.
+[Markdig](https://github.com/lunet-io/markdig) ⭐ 5,307 | 🐛 117 | 🌐 C# | 📅 2026-08-18 is a fast, powerful, [CommonMark](https://commonmark.org/) compliant, extensible Markdown processor for .NET.
 
 # F# Development
 
@@ -1364,7 +1364,7 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
 
 [SkiaSharp](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/graphics/skiasharp/?WT.mc_id=dotnet-35129-website) is a 2D graphics system for .NET and C# powered by the open-source Skia graphics engine that is used extensively in Google products. This can be use in your Xamarin.Forms applications to draw 2D vector graphics, bitmaps, and text.
 
-[MonoGame](https://github.com/MonoGame/MonoGame) ⭐ 14,343 | 🐛 755 | 🌐 C# | 📅 2026-08-25 is a cross-platform gaming framework based on Microsoft's XNA framework that's extremely easy to learn. Best of all, games you build with MonoGame will run on iOS, Android, Mac OS X, tvOS, Windows, Linux, PlayStation 4, and more—write once, play anywhere.
+[MonoGame](https://github.com/MonoGame/MonoGame) ⭐ 14,350 | 🐛 754 | 🌐 C# | 📅 2026-08-26 is a cross-platform gaming framework based on Microsoft's XNA framework that's extremely easy to learn. Best of all, games you build with MonoGame will run on iOS, Android, Mac OS X, tvOS, Windows, Linux, PlayStation 4, and more—write once, play anywhere.
 
 [Stride](https://stride3d.net/) is an open-source C# game engine for realistic rendering and VR. The engine is highly modular and aims at giving game makers more flexibility in their development. Stride comes with an editor that allows you to create and manage the content of your games or applications visually and intuitively.
 
@@ -1440,13 +1440,13 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
 
 [Nest](https://nestjs.com/) is a framework for building efficient, scalable [Node.js](http://nodejs.org/) server-side applications. It is built with TypeScript and combines elements of Object Oriented Programming(OOP), Functional Programming, and Functional Reactive Programming(FRP).
 
-[Definitely Typed](https://github.com/DefinitelyTyped/DefinitelyTyped) ⭐ 51,399 | 🐛 691 | 🌐 TypeScript | 📅 2026-08-25 is a repository for high quality TypeScript type definitions.
+[Definitely Typed](https://github.com/DefinitelyTyped/DefinitelyTyped) ⭐ 51,410 | 🐛 691 | 🌐 TypeScript | 📅 2026-08-26 is a repository for high quality TypeScript type definitions.
 
-[TypeORM](https://github.com/typeorm/typeorm) ⭐ 36,633 | 🐛 624 | 🌐 TypeScript | 📅 2026-08-13 is an ORM that can run in NodeJS, Browser, Cordova, PhoneGap, Ionic, React Native, NativeScript, Expo, and Electron platforms and can be used with TypeScript and JavaScript (ES5, ES6, ES7, ES8).
+[TypeORM](https://github.com/typeorm/typeorm) ⭐ 36,632 | 🐛 610 | 🌐 TypeScript | 📅 2026-08-26 is an ORM that can run in NodeJS, Browser, Cordova, PhoneGap, Ionic, React Native, NativeScript, Expo, and Electron platforms and can be used with TypeScript and JavaScript (ES5, ES6, ES7, ES8).
 
 [NativeScript](https://www.nativescript.org/) empowers you to access native APIs from JavaScript directly. The framework currently provides iOS and Android runtimes for rich mobile development and can be utilized in a number of diverse use cases.
 
-[AssemblyScript](https://assemblyscript.org/) compiles a strict variant of TypeScript to [WebAssembly](http://webassembly.org/) using [Binaryen](https://github.com/WebAssembly/binaryen) ⭐ 8,610 | 🐛 560 | 🌐 WebAssembly | 📅 2026-08-25.
+[AssemblyScript](https://assemblyscript.org/) compiles a strict variant of TypeScript to [WebAssembly](http://webassembly.org/) using [Binaryen](https://github.com/WebAssembly/binaryen) ⭐ 8,612 | 🐛 557 | 🌐 WebAssembly | 📅 2026-08-27.
 
 [React Hook Form](https://react-hook-form.com/) is a performant, flexible and extensible forms with easy to use validation(Web + React Native).
 
@@ -1456,7 +1456,7 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
 
 [Rome](https://romefrontend.dev/) is a linter, compiler, bundler, and [more](https://romefrontend.dev/#development-status) for JavaScript, TypeScript, JSON, HTML, Markdown, and CSS.
 
-[Eclipse Theia](https://github.com/eclipse-theia/theia) ⭐ 21,654 | 🐛 1,503 | 🌐 TypeScript | 📅 2026-08-25 is an extensible platform to develop full-fledged multi-language Cloud & Desktop IDE-like products with state-of-the-art web technologies.
+[Eclipse Theia](https://github.com/eclipse-theia/theia) ⭐ 21,655 | 🐛 1,504 | 🌐 TypeScript | 📅 2026-08-27 is an extensible platform to develop full-fledged multi-language Cloud & Desktop IDE-like products with state-of-the-art web technologies.
 
 [InversifyJS](https://github.com/inversify/InversifyJS) ⭐ 12,076 | 🐛 2 | 🌐 TypeScript | 📅 2025-11-19 is a powerful and lightweight inversion of control(IoC) container for JavaScript & Node.js apps powered by TypeScript. An IoC container uses a class constructor to identify and inject its dependencies.
 
@@ -1466,7 +1466,7 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
 
 [TypeScript ESLint](https://typescript-eslint.io/) is a monorepo for all the tooling which enables ESLint to support TypeScript.
 
-[TS node](https://github.com/TypeStrong/ts-node) ⭐ 13,127 | 🐛 232 | 🌐 TypeScript | 📅 2024-07-18 is a TypeScript execution and REPL for node.js.
+[TS node](https://github.com/TypeStrong/ts-node) ⭐ 13,126 | 🐛 232 | 🌐 TypeScript | 📅 2024-07-18 is a TypeScript execution and REPL for node.js.
 
 # Networking
 
@@ -1517,7 +1517,7 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
 
 [cURL](https://curl.se/) is a computer software project providing a library and command-line tool for transferring data using various network protocols(HTTP, HTTPS, FTP, FTPS, SCP, SFTP, TFTP, DICT, TELNET, LDAP LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP or SMTPS). cURL is also used in cars, television sets, routers, printers, audio equipment, mobile phones, tablets, settop boxes, media players and is the Internet transfer engine for thousands of software applications in over ten billion installations.
 
-[cURL Fuzzer](https://github.com/curl/curl-fuzzer) ⭐ 100 | 🐛 19 | 🌐 C++ | 📅 2026-08-25 is a quality assurance testing for the curl project.
+[cURL Fuzzer](https://github.com/curl/curl-fuzzer) ⭐ 100 | 🐛 19 | 🌐 C++ | 📅 2026-08-26 is a quality assurance testing for the curl project.
 
 [DoH](https://github.com/curl/doh) ⭐ 431 | 🐛 6 | 🌐 C | 📅 2026-04-28 is a stand-alone application for DoH (DNS-over-HTTPS) name resolves and lookups.
 
@@ -1529,9 +1529,9 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
 
 [Wireshark](https://www.wireshark.org/) is a very popular network protocol analyzer that is commonly used for network troubleshooting, analysis, and communications protocol development. Learn more about the other useful [Wireshark Tools](https://wiki.wireshark.org/Tools) available.
 
-[HTTPie](https://github.com/httpie/httpie) ⭐ 38,449 | 🐛 332 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
+[HTTPie](https://github.com/httpie/httpie) ⭐ 38,458 | 🐛 334 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
 
-[HTTPStat](https://github.com/reorx/httpstat) ⭐ 6,215 | 🐛 9 | 🌐 Python | 📅 2026-04-08 is a tool that visualizes curl statistics in a simple layout.
+[HTTPStat](https://github.com/reorx/httpstat) ⭐ 6,217 | 🐛 9 | 🌐 Python | 📅 2026-04-08 is a tool that visualizes curl statistics in a simple layout.
 
 [Wuzz](https://github.com/asciimoo/wuzz) ⭐ 10,722 | 🐛 42 | 🌐 Go | 📅 2026-08-04 is an interactive cli tool for HTTP inspection. It can be used to inspect/modify requests copied from the browser's network inspector with the "copy as cURL" feature.
 
@@ -1703,7 +1703,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 ## SQL/NoSQL Tools and Databases
 
-[Netdata](https://github.com/netdata/netdata) ⭐ 80,297 | 🐛 393 | 🌐 Go | 📅 2026-08-25 is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
+[Netdata](https://github.com/netdata/netdata) ⭐ 80,311 | 🐛 391 | 🌐 Go | 📅 2026-08-27 is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
 
 [Azure Data Studio](https://github.com/Microsoft/azuredatastudio) ⚠️ Archived is an open source data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 
@@ -1775,7 +1775,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 [InfluxDB](https://www.influxdata.com/) is an open source time series platform.  This includes APIs for storing and querying data, processing it in the background for [ETL](https://docs.microsoft.com/en-us/azure/architecture/data-guide/relational-data/etl) or monitoring and alerting purposes, user dashboards, Internet of Things sensor data, and visualizing and exploring the data and more. It also has support for processing data from [Graphite](http://graphiteapp.org/).
 
-[Atlas](https://github.com/Netflix/atlas) ⭐ 3,563 | 🐛 8 | 🌐 Scala | 📅 2026-08-25 is an in-memory dimensional [time series database](https://en.wikipedia.org/wiki/Time_series_database).
+[Atlas](https://github.com/Netflix/atlas) ⭐ 3,564 | 🐛 8 | 🌐 Scala | 📅 2026-08-27 is an in-memory dimensional [time series database](https://en.wikipedia.org/wiki/Time_series_database).
 
 [CouchbaseDB](https://www.couchbase.com/) is an open source distributed [multi-model NoSQL document-oriented database](https://en.wikipedia.org/wiki/Multi-model_database). It creates a key-value store with managed cache for sub-millisecond data operations, with purpose-built indexers for efficient queries and a powerful query engine for executing SQL queries.
 
@@ -1809,4 +1809,4 @@ Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

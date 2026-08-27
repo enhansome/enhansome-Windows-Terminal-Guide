@@ -268,10 +268,10 @@
             "archived": false,
             "id": 100060912,
             "language": "C++",
-            "last_commit": "2026-08-25T22:29:38Z",
+            "last_commit": "2026-08-27T03:04:05Z",
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 104692
+            "stars": 104698
           }
         }
       ],
@@ -294,7 +294,7 @@
                 "last_commit": "2026-08-01T00:31:28Z",
                 "owner": "microsoft",
                 "repo": "WSL2-Linux-Kernel",
-                "stars": 10540
+                "stars": 10543
               }
             }
           ],
@@ -343,10 +343,10 @@
                 "archived": false,
                 "id": 100060912,
                 "language": "C++",
-                "last_commit": "2026-08-25T22:29:38Z",
+                "last_commit": "2026-08-27T03:04:05Z",
                 "owner": "microsoft",
                 "repo": "terminal",
-                "stars": 104692
+                "stars": 104698
               }
             },
             {
@@ -358,10 +358,10 @@
                 "archived": false,
                 "id": 49609581,
                 "language": "C#",
-                "last_commit": "2026-08-25T20:51:08Z",
+                "last_commit": "2026-08-26T19:45:21Z",
                 "owner": "PowerShell",
                 "repo": "PowerShell",
-                "stars": 55124
+                "stars": 55135
               }
             },
             {
@@ -476,7 +476,7 @@
                 "archived": false,
                 "id": 122269892,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T07:03:20Z",
+                "last_commit": "2026-08-26T08:14:37Z",
                 "owner": "Azure",
                 "repo": "Azurite",
                 "stars": 2250
@@ -504,10 +504,10 @@
                 "archived": false,
                 "id": 92205085,
                 "language": "Python",
-                "last_commit": "2026-08-25T09:39:53Z",
+                "last_commit": "2026-08-26T23:04:55Z",
                 "owner": "aws",
                 "repo": "aws-sam-cli",
-                "stars": 6731
+                "stars": 6732
               }
             }
           ],
@@ -532,7 +532,7 @@
                 "archived": false,
                 "id": 286818960,
                 "language": "Shell",
-                "last_commit": "2026-08-25T21:51:44Z",
+                "last_commit": "2026-08-27T02:43:51Z",
                 "owner": "openshift",
                 "repo": "sandboxed-containers-operator",
                 "stars": 50
@@ -547,7 +547,7 @@
                 "archived": false,
                 "id": 148682741,
                 "language": "Go",
-                "last_commit": "2026-08-25T19:00:19Z",
+                "last_commit": "2026-08-26T00:09:06Z",
                 "owner": "openshift",
                 "repo": "hive",
                 "stars": 275
@@ -580,7 +580,7 @@
                 "last_commit": "2026-08-25T18:18:07Z",
                 "owner": "k3s-io",
                 "repo": "k3s",
-                "stars": 33818
+                "stars": 33828
               }
             }
           ],
@@ -605,10 +605,10 @@
                 "archived": false,
                 "id": 210716005,
                 "language": "C#",
-                "last_commit": "2026-08-25T22:44:15Z",
+                "last_commit": "2026-08-27T02:44:53Z",
                 "owner": "dotnet",
                 "repo": "runtime",
-                "stars": 18226
+                "stars": 18228
               }
             },
             {
@@ -635,10 +635,10 @@
                 "archived": false,
                 "id": 1327739,
                 "language": "C#",
-                "last_commit": "2026-08-25T20:47:03Z",
+                "last_commit": "2026-08-26T20:53:29Z",
                 "owner": "icsharpcode",
                 "repo": "ILSpy",
-                "stars": 25943
+                "stars": 25954
               }
             },
             {
@@ -650,7 +650,7 @@
                 "archived": false,
                 "id": 262395224,
                 "language": "C#",
-                "last_commit": "2026-08-25T23:05:31Z",
+                "last_commit": "2026-08-27T04:02:32Z",
                 "owner": "dotnet",
                 "repo": "maui",
                 "stars": 23310
@@ -693,10 +693,10 @@
                 "archived": false,
                 "id": 32051890,
                 "language": "C#",
-                "last_commit": "2026-08-25T17:58:37Z",
+                "last_commit": "2026-08-27T02:07:26Z",
                 "owner": "dotnet",
                 "repo": "msbuild",
-                "stars": 5546
+                "stars": 5547
               }
             },
             {
@@ -711,7 +711,7 @@
                 "last_commit": "2025-12-29T17:45:58Z",
                 "owner": "microsoft",
                 "repo": "botframework-sdk",
-                "stars": 7808
+                "stars": 7807
               }
             },
             {
@@ -771,7 +771,7 @@
                 "last_commit": "2026-08-18T16:02:42Z",
                 "owner": "xoofx",
                 "repo": "markdig",
-                "stars": 5305
+                "stars": 5307
               }
             }
           ],
@@ -824,10 +824,10 @@
                 "archived": false,
                 "id": 1579990,
                 "language": "C#",
-                "last_commit": "2026-08-25T19:42:46Z",
+                "last_commit": "2026-08-26T01:42:25Z",
                 "owner": "MonoGame",
                 "repo": "MonoGame",
-                "stars": 14343
+                "stars": 14350
               }
             }
           ],
@@ -882,10 +882,10 @@
                 "archived": false,
                 "id": 6093316,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T17:23:29Z",
+                "last_commit": "2026-08-26T23:44:37Z",
                 "owner": "DefinitelyTyped",
                 "repo": "DefinitelyTyped",
-                "stars": 51399
+                "stars": 51410
               }
             },
             {
@@ -897,10 +897,10 @@
                 "archived": false,
                 "id": 52773157,
                 "language": "TypeScript",
-                "last_commit": "2026-08-13T06:47:32Z",
+                "last_commit": "2026-08-26T14:27:09Z",
                 "owner": "typeorm",
                 "repo": "typeorm",
-                "stars": 36633
+                "stars": 36632
               }
             },
             {
@@ -912,10 +912,10 @@
                 "archived": false,
                 "id": 83050680,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T15:00:34Z",
+                "last_commit": "2026-08-27T01:40:21Z",
                 "owner": "eclipse-theia",
                 "repo": "theia",
-                "stars": 21654
+                "stars": 21655
               }
             },
             {
@@ -945,7 +945,7 @@
                 "last_commit": "2024-07-18T18:14:16Z",
                 "owner": "TypeStrong",
                 "repo": "ts-node",
-                "stars": 13127
+                "stars": 13126
               }
             }
           ],
@@ -970,7 +970,7 @@
                 "archived": false,
                 "id": 104416990,
                 "language": "C++",
-                "last_commit": "2026-08-25T12:45:54Z",
+                "last_commit": "2026-08-26T21:33:15Z",
                 "owner": "curl",
                 "repo": "curl-fuzzer",
                 "stars": 100
@@ -1003,7 +1003,7 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38449
+                "stars": 38458
               }
             },
             {
@@ -1018,7 +1018,7 @@
                 "last_commit": "2026-04-08T10:04:34Z",
                 "owner": "reorx",
                 "repo": "httpstat",
-                "stars": 6215
+                "stars": 6217
               }
             },
             {
@@ -1073,10 +1073,10 @@
                 "archived": false,
                 "id": 10744183,
                 "language": "Go",
-                "last_commit": "2026-08-25T23:07:35Z",
+                "last_commit": "2026-08-27T01:28:14Z",
                 "owner": "netdata",
                 "repo": "netdata",
-                "stars": 80297
+                "stars": 80311
               }
             },
             {
@@ -1103,10 +1103,10 @@
                 "archived": false,
                 "id": 22631422,
                 "language": "Scala",
-                "last_commit": "2026-08-25T15:14:39Z",
+                "last_commit": "2026-08-27T02:45:54Z",
                 "owner": "Netflix",
                 "repo": "atlas",
-                "stars": 3563
+                "stars": 3564
               }
             }
           ],
@@ -1141,7 +1141,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:08:14.615Z",
+    "last_updated": "2026-08-27T04:04:00.900Z",
     "original_repository": "mikeroyal/Windows-Terminal-Guide",
     "original_repository_id": 432806189,
     "original_repository_sha": "06d71b450701d2f20744a8091080374dee242588",
