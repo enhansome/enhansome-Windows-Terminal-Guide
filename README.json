@@ -271,7 +271,7 @@
             "last_commit": "2026-08-27T03:04:05Z",
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 104698
+            "stars": 104700
           }
         }
       ],
@@ -346,7 +346,7 @@
                 "last_commit": "2026-08-27T03:04:05Z",
                 "owner": "microsoft",
                 "repo": "terminal",
-                "stars": 104698
+                "stars": 104700
               }
             },
             {
@@ -358,10 +358,10 @@
                 "archived": false,
                 "id": 49609581,
                 "language": "C#",
-                "last_commit": "2026-08-26T19:45:21Z",
+                "last_commit": "2026-08-27T06:10:23Z",
                 "owner": "PowerShell",
                 "repo": "PowerShell",
-                "stars": 55135
+                "stars": 55142
               }
             },
             {
@@ -391,7 +391,7 @@
                 "last_commit": "2025-01-07T22:22:48Z",
                 "owner": "microsoft",
                 "repo": "WSL-DistroLauncher",
-                "stars": 1732
+                "stars": 1733
               }
             },
             {
@@ -504,7 +504,7 @@
                 "archived": false,
                 "id": 92205085,
                 "language": "Python",
-                "last_commit": "2026-08-26T23:04:55Z",
+                "last_commit": "2026-08-27T09:46:35Z",
                 "owner": "aws",
                 "repo": "aws-sam-cli",
                 "stars": 6732
@@ -532,7 +532,7 @@
                 "archived": false,
                 "id": 286818960,
                 "language": "Shell",
-                "last_commit": "2026-08-27T02:43:51Z",
+                "last_commit": "2026-08-27T12:06:26Z",
                 "owner": "openshift",
                 "repo": "sandboxed-containers-operator",
                 "stars": 50
@@ -580,7 +580,7 @@
                 "last_commit": "2026-08-25T18:18:07Z",
                 "owner": "k3s-io",
                 "repo": "k3s",
-                "stars": 33828
+                "stars": 33831
               }
             }
           ],
@@ -605,10 +605,10 @@
                 "archived": false,
                 "id": 210716005,
                 "language": "C#",
-                "last_commit": "2026-08-27T02:44:53Z",
+                "last_commit": "2026-08-27T11:15:18Z",
                 "owner": "dotnet",
                 "repo": "runtime",
-                "stars": 18228
+                "stars": 18231
               }
             },
             {
@@ -635,10 +635,10 @@
                 "archived": false,
                 "id": 1327739,
                 "language": "C#",
-                "last_commit": "2026-08-26T20:53:29Z",
+                "last_commit": "2026-08-27T08:51:07Z",
                 "owner": "icsharpcode",
                 "repo": "ILSpy",
-                "stars": 25954
+                "stars": 25960
               }
             },
             {
@@ -650,10 +650,10 @@
                 "archived": false,
                 "id": 262395224,
                 "language": "C#",
-                "last_commit": "2026-08-27T04:02:32Z",
+                "last_commit": "2026-08-27T11:56:44Z",
                 "owner": "dotnet",
                 "repo": "maui",
-                "stars": 23310
+                "stars": 23311
               }
             },
             {
@@ -693,7 +693,7 @@
                 "archived": false,
                 "id": 32051890,
                 "language": "C#",
-                "last_commit": "2026-08-27T02:07:26Z",
+                "last_commit": "2026-08-27T12:01:56Z",
                 "owner": "dotnet",
                 "repo": "msbuild",
                 "stars": 5547
@@ -741,7 +741,7 @@
                 "last_commit": "2025-10-13T14:27:40Z",
                 "owner": "codecadwallader",
                 "repo": "codemaid",
-                "stars": 1984
+                "stars": 1985
               }
             },
             {
@@ -827,7 +827,7 @@
                 "last_commit": "2026-08-26T01:42:25Z",
                 "owner": "MonoGame",
                 "repo": "MonoGame",
-                "stars": 14350
+                "stars": 14352
               }
             }
           ],
@@ -882,10 +882,10 @@
                 "archived": false,
                 "id": 6093316,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T23:44:37Z",
+                "last_commit": "2026-08-27T10:37:41Z",
                 "owner": "DefinitelyTyped",
                 "repo": "DefinitelyTyped",
-                "stars": 51410
+                "stars": 51411
               }
             },
             {
@@ -897,10 +897,10 @@
                 "archived": false,
                 "id": 52773157,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T14:27:09Z",
+                "last_commit": "2026-08-27T10:20:30Z",
                 "owner": "typeorm",
                 "repo": "typeorm",
-                "stars": 36632
+                "stars": 36631
               }
             },
             {
@@ -912,10 +912,10 @@
                 "archived": false,
                 "id": 83050680,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T01:40:21Z",
+                "last_commit": "2026-08-27T12:04:41Z",
                 "owner": "eclipse-theia",
                 "repo": "theia",
-                "stars": 21655
+                "stars": 21658
               }
             },
             {
@@ -1003,7 +1003,7 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38458
+                "stars": 38460
               }
             },
             {
@@ -1073,10 +1073,10 @@
                 "archived": false,
                 "id": 10744183,
                 "language": "Go",
-                "last_commit": "2026-08-27T01:28:14Z",
+                "last_commit": "2026-08-27T11:27:02Z",
                 "owner": "netdata",
                 "repo": "netdata",
-                "stars": 80311
+                "stars": 80320
               }
             },
             {
@@ -1141,9 +1141,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:04:00.900Z",
-    "original_repository": "mikeroyal/Windows-Terminal-Guide",
-    "original_repository_id": 432806189,
+    "last_updated": "2026-08-27T12:10:19.678Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 432806189,
+      "language": "PowerShell",
+      "last_commit": "2024-01-04T22:24:45Z",
+      "owner": "mikeroyal",
+      "repo": "Windows-Terminal-Guide",
+      "stars": 112
+    },
     "original_repository_sha": "06d71b450701d2f20744a8091080374dee242588",
     "enhanced_repository": "enhansome/enhansome-Windows-Terminal-Guide",
     "enhanced_repository_description": null,
