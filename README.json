@@ -700,7 +700,7 @@
             "open_issues": 1763,
             "owner": "microsoft",
             "repo": "terminal",
-            "stars": 104722,
+            "stars": 104721,
             "topics": [
               "cmd",
               "command-line",
@@ -843,7 +843,7 @@
                 "open_issues": 1763,
                 "owner": "microsoft",
                 "repo": "terminal",
-                "stars": 104722,
+                "stars": 104721,
                 "topics": [
                   "cmd",
                   "command-line",
@@ -876,7 +876,7 @@
                 "open_issues": 1607,
                 "owner": "PowerShell",
                 "repo": "PowerShell",
-                "stars": 55177,
+                "stars": 55176,
                 "topics": [
                   "command-line",
                   "hacktoberfest",
@@ -1263,7 +1263,7 @@
                 "id": 210716005,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-29T02:14:59Z",
+                "last_commit": "2026-08-29T04:19:03Z",
                 "open_issues": 7615,
                 "owner": "dotnet",
                 "repo": "runtime",
@@ -1322,7 +1322,7 @@
                 "open_issues": 186,
                 "owner": "icsharpcode",
                 "repo": "ILSpy",
-                "stars": 25969,
+                "stars": 25971,
                 "topics": [
                   "c-sharp",
                   "decompile",
@@ -1779,7 +1779,7 @@
                 "open_issues": 690,
                 "owner": "DefinitelyTyped",
                 "repo": "DefinitelyTyped",
-                "stars": 51414,
+                "stars": 51416,
                 "topics": [
                   "definition",
                   "dts",
@@ -2274,7 +2274,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:54:32.617Z",
+    "last_updated": "2026-08-29T05:00:35.532Z",
     "original_repository_info": {
       "archived": false,
       "description": "Windows Terminal Guide",
