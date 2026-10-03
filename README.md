@@ -21,45 +21,45 @@
 
 # Table of Contents
 
-1. [Getting Started with Windows Terminal](https://github.com/mikeroyal/Windows-Terminal-Guide#getting-started-with-windows-terminal) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+1. [Getting Started with Windows Terminal](https://github.com/mikeroyal/Windows-Terminal-Guide#getting-started-with-windows-terminal)
 
-2. [VSCode Development](https://github.com/mikeroyal/Windows-Terminal-Guide#vscode-development) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+2. [VSCode Development](https://github.com/mikeroyal/Windows-Terminal-Guide#vscode-development)
 
-   * [VS Code Extensions for Developer Productivity](https://github.com/mikeroyal/Windows-Terminal-Guide#VS-Code-Extensions-for-Developer-Productivity) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+   * [VS Code Extensions for Developer Productivity](https://github.com/mikeroyal/Windows-Terminal-Guide#VS-Code-Extensions-for-Developer-Productivity)
 
-3. [Windows Subsystem for Linux (WSL)](https://github.com/mikeroyal/Windows-Terminal-Guide#windows-subsystem-for-linux-wsl) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+3. [Windows Subsystem for Linux (WSL)](https://github.com/mikeroyal/Windows-Terminal-Guide#windows-subsystem-for-linux-wsl)
 
-4. [Azure Development](https://github.com/mikeroyal/Windows-Terminal-Guide#azure-development) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+4. [Azure Development](https://github.com/mikeroyal/Windows-Terminal-Guide#azure-development)
 
-5. [AWS Development](https://github.com/mikeroyal/Windows-Terminal-Guide#aws-development) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+5. [AWS Development](https://github.com/mikeroyal/Windows-Terminal-Guide#aws-development)
 
-6. [Google Cloud Development](https://github.com/mikeroyal/Windows-Terminal-Guide#google-cloud-development) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+6. [Google Cloud Development](https://github.com/mikeroyal/Windows-Terminal-Guide#google-cloud-development)
 
-7. [Kubernetes](https://github.com/mikeroyal/Windows-Terminal-Guide#kubernetes) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+7. [Kubernetes](https://github.com/mikeroyal/Windows-Terminal-Guide#kubernetes)
 
-8. [Docker](https://github.com/mikeroyal/Windows-Terminal-Guide#docker) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+8. [Docker](https://github.com/mikeroyal/Windows-Terminal-Guide#docker)
 
-9. [PowerShell Development](https://github.com/mikeroyal/Windows-Terminal-Guide#powershell-development) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+9. [PowerShell Development](https://github.com/mikeroyal/Windows-Terminal-Guide#powershell-development)
 
-10. [.NET Development](https://github.com/mikeroyal/Windows-Terminal-Guide#net-development) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+10. [.NET Development](https://github.com/mikeroyal/Windows-Terminal-Guide#net-development)
 
-11. [C# Development](https://github.com/mikeroyal/Windows-Terminal-Guide#c-development) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+11. [C# Development](https://github.com/mikeroyal/Windows-Terminal-Guide#c-development)
 
-12. [F# Development](https://github.com/mikeroyal/Windows-Terminal-Guide#f-development) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+12. [F# Development](https://github.com/mikeroyal/Windows-Terminal-Guide#f-development)
 
-13. [Xamarin Development](https://github.com/mikeroyal/Windows-Terminal-Guide#Xaramin-Development) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+13. [Xamarin Development](https://github.com/mikeroyal/Windows-Terminal-Guide#Xaramin-Development)
 
-14. [TypeScript Development](https://github.com/mikeroyal/Windows-Terminal-Guide#typescript-development) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+14. [TypeScript Development](https://github.com/mikeroyal/Windows-Terminal-Guide#typescript-development)
 
-15. [Networking](https://github.com/mikeroyal/Windows-Terminal-Guide#networking) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+15. [Networking](https://github.com/mikeroyal/Windows-Terminal-Guide#networking)
 
-16. [Databases](https://github.com/mikeroyal/Windows-Terminal-Guide#databases) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+16. [Databases](https://github.com/mikeroyal/Windows-Terminal-Guide#databases)
 
 # Awesome Getting Started with Windows Terminal with stars
 
-[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents)
 
-[Windows Terminal](https://github.com/microsoft/terminal) ⭐ 105,052 | 🐛 1,777 | 🌐 C++ | 📅 2026-10-01 is a new, modern, feature-rich, productive terminal application for command-line users. It includes many of the features most frequently requested by the Windows command-line community including support for tabs, rich text, globalization, configurability, theming & styling, and more. Take a look at the [Windows Terminal GitHub](https://github.com/Microsoft/Terminal) ⭐ 105,052 | 🐛 1,777 | 🌐 C++ | 📅 2026-10-01.
+[Windows Terminal](https://github.com/microsoft/terminal) ⭐ 105,055 | 🐛 1,777 | 🌐 C++ | 📅 2026-10-01 is a new, modern, feature-rich, productive terminal application for command-line users. It includes many of the features most frequently requested by the Windows command-line community including support for tabs, rich text, globalization, configurability, theming & styling, and more. Take a look at the [Windows Terminal GitHub](https://github.com/Microsoft/Terminal) ⭐ 105,055 | 🐛 1,777 | 🌐 C++ | 📅 2026-10-01.
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/143783143-265c9c5c-bc33-4742-99a5-655ed2a07150.png">
@@ -75,7 +75,7 @@
 
 [Git for Windows](https://gitforwindows.org) is a distributed version control system tool that focuses on offering a lightweight, native set of tools that bring the full feature set of the Git SCM to Windows while providing appropriate user interfaces for experienced Git users and novices alike.
 
-[Windows UI Library (WinUI)](https://docs.microsoft.com/en-us/windows/apps/winui/) is a native user experience (UX) framework for both Windows desktop and UWP applications. Take a look at the [Windows UI Library Roadmap](https://github.com/microsoft/microsoft-ui-xaml/blob/main/docs/roadmap.md) ⭐ 8,491 | 🐛 2,435 | 🌐 C++ | 📅 2026-10-03.
+[Windows UI Library (WinUI)](https://docs.microsoft.com/en-us/windows/apps/winui/) is a native user experience (UX) framework for both Windows desktop and UWP applications. Take a look at the [Windows UI Library Roadmap](https://github.com/microsoft/microsoft-ui-xaml/blob/main/docs/roadmap.md) ⭐ 8,491 | 🐛 2,438 | 🌐 C++ | 📅 2026-10-03.
 
 [Windows UI Library (WinUI) 2](https://docs.microsoft.com/en-us/windows/apps/winui/winui2/) is tightly integrated with [Windows 10 and later SDKs](https://developer.microsoft.com/windows/downloads/windows-10-sdk/) and provides official native Windows UI controls and other user interface elements for UWP applications (and desktop applications using [XAML Islands](https://docs.microsoft.com/en-us/windows/apps/desktop/modernize/xaml-islands)).
 
@@ -107,7 +107,7 @@
 
 # VSCode Development
 
-[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/140833078-77973dcf-d3a6-421f-b6a7-b6e63fb1e97c.png">
@@ -204,7 +204,7 @@ VS Code Marketplace
 
 # Windows Subsystem for Linux (WSL)
 
-[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/146082215-7d80b8b7-4da6-4280-900d-4ce4cd30df7e.png">
@@ -264,9 +264,9 @@ VS Code Marketplace
 
 [Visual Studio Code Remote Development and GitHub Codespaces](https://github.com/Microsoft/vscode-dev-containers) ⚠️ Archived is a  repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces. A development container is a running [Docker](https://www.docker.com/) container with a well-defined tool/runtime stack and its prerequisites. The [VS Code Remote Containers](https://aka.ms/vscode-remote/download/containers) extension allows you to clone a repository or open any folder mounted into (or already inside) a dev container and take advantage of VS Code's full development feature set. [GitHub Codespaces](https://github.com/features/codespaces) both use this same concept to quickly create customized, cloud-based development environments accessible from VS Code or the web.
 
-[Windows Terminal](https://github.com/microsoft/terminal) ⭐ 105,052 | 🐛 1,777 | 🌐 C++ | 📅 2026-10-01 is a new, modern, feature-rich, productive terminal application for command-line users. It includes many of the features most frequently requested by the Windows command-line community including support for tabs, rich text, globalization, configurability, theming & styling, and more.
+[Windows Terminal](https://github.com/microsoft/terminal) ⭐ 105,055 | 🐛 1,777 | 🌐 C++ | 📅 2026-10-01 is a new, modern, feature-rich, productive terminal application for command-line users. It includes many of the features most frequently requested by the Windows command-line community including support for tabs, rich text, globalization, configurability, theming & styling, and more.
 
-[PowerShell Core](https://github.com/PowerShell/PowerShell) ⭐ 55,572 | 🐛 1,601 | 🌐 C# | 📅 2026-10-02 is a cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language and a framework for processing cmdlets.
+[PowerShell Core](https://github.com/PowerShell/PowerShell) ⭐ 55,576 | 🐛 1,601 | 🌐 C# | 📅 2026-10-02 is a cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language and a framework for processing cmdlets.
 
 [Docker Desktop WSL 2 backend](https://docs.docker.com/docker-for-windows/wsl/) creates an  architectural change that gvies a full Linux kernel built by Microsoft, allowing Linux containers to run natively without emulation. With Docker Desktop running on WSL 2, users can leverage Linux workspaces and avoid having to maintain both Linux and Windows build scripts. In addition, WSL 2 provides improvements to file system sharing, boot time, and allows access to some cool new features for Docker Desktop users.
 
@@ -360,7 +360,7 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 
 # Azure Development
 
-[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/143783480-ff81ac86-8971-47bd-a42b-1a430a4f4e20.png">
@@ -547,7 +547,7 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 
 # AWS Development
 
-[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/114322508-7d8c7280-9ad5-11eb-807e-4dc63c9bc0e1.png">
@@ -698,7 +698,7 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
 
 # Google Cloud Development
 
-[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/114321928-639d6080-9ad2-11eb-8297-5e6c10c1c792.png">
@@ -787,7 +787,7 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
 
 # Kubernetes
 
-[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/95383873-a884d800-08a0-11eb-8eaf-57af5b119f56.png">
@@ -892,7 +892,7 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
 
 [Odo](https://odo.dev/) is a fast, iterative, and straightforward CLI tool for developers who write, build, and deploy applications on Kubernetes and OpenShift.
 
-[Kata Operator](https://github.com/openshift/kata-operator) ⭐ 51 | 🐛 40 | 🌐 Shell | 📅 2026-10-03 is an operator to perform lifecycle management (install/upgrade/uninstall) of [Kata Runtime](https://katacontainers.io/) on Openshift as well as Kubernetes cluster.
+[Kata Operator](https://github.com/openshift/kata-operator) ⭐ 51 | 🐛 42 | 🌐 Shell | 📅 2026-10-03 is an operator to perform lifecycle management (install/upgrade/uninstall) of [Kata Runtime](https://katacontainers.io/) on Openshift as well as Kubernetes cluster.
 
 [Thanos](https://thanos.io/) is a set of components that can be composed into a highly available metric system with unlimited storage capacity, which can be added seamlessly on top of existing Prometheus deployments.
 
@@ -902,13 +902,13 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
 
 [VMware Tanzu](https://tanzu.vmware.com/tanzu) is a centralized management platform for consistently operating and securing your Kubernetes infrastructure and modern applications across multiple teams and private/public clouds.
 
-[Kubespray](https://kubespray.io/) is a tool that combines Kubernetes and Ansible to easily install Kubernetes clusters that can be deployed on [AWS](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/aws.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-02, GCE, [Azure](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/azure.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-02, [OpenStack](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/openstack.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-02, [vSphere](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/vsphere.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-02, [Packet](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/packet.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-02 (bare metal), Oracle Cloud Infrastructure (Experimental), or Baremetal.
+[Kubespray](https://kubespray.io/) is a tool that combines Kubernetes and Ansible to easily install Kubernetes clusters that can be deployed on [AWS](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/aws.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-03, GCE, [Azure](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/azure.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-03, [OpenStack](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/openstack.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-03, [vSphere](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/vsphere.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-03, [Packet](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/packet.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-03 (bare metal), Oracle Cloud Infrastructure (Experimental), or Baremetal.
 
 [KubeInit](https://github.com/kubeinit/kubeinit) ⭐ 224 | 🐛 5 | 🌐 Python | 📅 2025-12-05 provides Ansible playbooks and roles for the deployment and configuration of multiple Kubernetes distributions.
 
 [Rancher](https://rancher.com/) is a complete software stack for teams adopting containers. It addresses the operational and security challenges of managing multiple Kubernetes clusters, while providing DevOps teams with integrated tools for running containerized workloads.
 
-[K3s](https://github.com/rancher/k3s) ⭐ 34,110 | 🐛 75 | 🌐 Go | 📅 2026-10-02 is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
+[K3s](https://github.com/rancher/k3s) ⭐ 34,111 | 🐛 75 | 🌐 Go | 📅 2026-10-02 is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
 
 [Helm](https://helm.sh/) is a Kubernetes Package Manager tool that makes it easier to install and manage Kubernetes applications.
 
@@ -940,7 +940,7 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
 
 # Docker
 
-[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/113521410-2e32c900-954e-11eb-8311-065fa0099546.png">
@@ -1016,7 +1016,7 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
 
 # PowerShell Development
 
-[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/115297904-9918fe00-a111-11eb-887c-774b939f1bdf.png">
@@ -1065,7 +1065,7 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
 
 # .NET Development
 
-[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93719689-0d1e0400-fb39-11ea-82e5-331a8ff8060d.png">
@@ -1124,7 +1124,7 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
 
 [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/introduction) is a cross-platform .NET implementation for websites, servers, and console apps on Windows, Linux, and macOS.The .NET Framework supports websites, services, desktop apps, and more on Windows. Xamarin/Mono is a .NET implementation for running apps on all the major mobile operating systems.
 
-[.NET runtime](https://github.com/dotnet/runtime) ⭐ 18,303 | 🐛 8,060 | 🌐 C# | 📅 2026-10-03 is a collection of libraries and shared host (dotnet) installers for all supported platforms, as well as the sources to .NET runtime and libraries.
+[.NET runtime](https://github.com/dotnet/runtime) ⭐ 18,303 | 🐛 8,065 | 🌐 C# | 📅 2026-10-03 is a collection of libraries and shared host (dotnet) installers for all supported platforms, as well as the sources to .NET runtime and libraries.
 
 [ASP.NET Core](https://asp.net/) is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 
@@ -1142,7 +1142,7 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
 
 [Avalonia](https://avaloniaui.net/) is a cross-platform XAML-based UI framework providing a flexible styling system and supporting a wide range of Operating Systems such as Windows via .NET Framework and .NET Core, Linux via Xorg, macOS.
 
-[Polly](https://github.com/App-vNext/Polly) ⭐ 14,244 | 🐛 1 | 🌐 C# | 📅 2026-10-02 is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner.
+[Polly](https://github.com/App-vNext/Polly) ⭐ 14,245 | 🐛 1 | 🌐 C# | 📅 2026-10-02 is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner.
 
 [IdentityServer](https://identityserver.io/) is a free, open source [OpenID Connect](https://openid.net/connect/) and [OAuth 2.0](https://tools.ietf.org/html/rfc6749) framework for ASP.NET Core. IdentityServer4 incorporates all the protocol implementations and extensibility points needed to integrate token-based authentication, single-sign-on and API access control in your applications.
 
@@ -1156,13 +1156,13 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
 
 [Refit](https://reactiveui.github.io/refit/) is the automatic type-safe REST library for .NET Core, Xamarin and .NET.It's heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
 
-[MAUI](https://github.com/dotnet/maui) ⭐ 23,321 | 🐛 4,102 | 🌐 C# | 📅 2026-10-03 is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
+[MAUI](https://github.com/dotnet/maui) ⭐ 23,321 | 🐛 4,106 | 🌐 C# | 📅 2026-10-03 is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 
 [Quasar](https://github.com/quasar/Quasar) ⚠️ Archived is a fast and light-weight remote administration tool coded in C#. The usage ranges from user support through day-to-day administrative work to employee monitoring. Providing high stability and an easy-to-use user interface, Quasar is the perfect remote administration solution for you.
 
 # C# Development
 
-[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/94306457-d6c0fa00-ff27-11ea-85dc-83dbb8f3e3e6.png">
@@ -1208,7 +1208,7 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
 
 [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
 
-[MSBuild](https://github.com/dotnet/msbuild) ⭐ 5,550 | 🐛 1,761 | 🌐 C# | 📅 2026-10-02 is the build platform for .NET and Visual Studio. MSBuild, provides an XML schema for a project file that controls how the build platform processes and builds software. Visual Studio uses MSBuild to perform team builds through Azure DevOps Server, but MSBuild can run without Visual Studio.
+[MSBuild](https://github.com/dotnet/msbuild) ⭐ 5,551 | 🐛 1,761 | 🌐 C# | 📅 2026-10-02 is the build platform for .NET and Visual Studio. MSBuild, provides an XML schema for a project file that controls how the build platform processes and builds software. Visual Studio uses MSBuild to perform team builds through Azure DevOps Server, but MSBuild can run without Visual Studio.
 
 [Roslyn](https://docs.microsoft.com/dotnet/csharp/roslyn-sdk/) is a .NET compiler developed by Microsoft that provides C# and Visual Basic languages with rich code analysis APIs.
 
@@ -1250,7 +1250,7 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
 
 # F# Development
 
-[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/94306464-da548100-ff27-11ea-8934-e9830a549cf1.png">
@@ -1313,7 +1313,7 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
 
 # Xaramin Development
 
-[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/127785363-75cd0a8d-928f-4669-9383-0b3a7110e08e.png">
@@ -1364,7 +1364,7 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
 
 [SkiaSharp](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/graphics/skiasharp/?WT.mc_id=dotnet-35129-website) is a 2D graphics system for .NET and C# powered by the open-source Skia graphics engine that is used extensively in Google products. This can be use in your Xamarin.Forms applications to draw 2D vector graphics, bitmaps, and text.
 
-[MonoGame](https://github.com/MonoGame/MonoGame) ⭐ 14,480 | 🐛 755 | 🌐 C# | 📅 2026-10-02 is a cross-platform gaming framework based on Microsoft's XNA framework that's extremely easy to learn. Best of all, games you build with MonoGame will run on iOS, Android, Mac OS X, tvOS, Windows, Linux, PlayStation 4, and more—write once, play anywhere.
+[MonoGame](https://github.com/MonoGame/MonoGame) ⭐ 14,480 | 🐛 756 | 🌐 C# | 📅 2026-10-02 is a cross-platform gaming framework based on Microsoft's XNA framework that's extremely easy to learn. Best of all, games you build with MonoGame will run on iOS, Android, Mac OS X, tvOS, Windows, Linux, PlayStation 4, and more—write once, play anywhere.
 
 [Stride](https://stride3d.net/) is an open-source C# game engine for realistic rendering and VR. The engine is highly modular and aims at giving game makers more flexibility in their development. Stride comes with an editor that allows you to create and manage the content of your games or applications visually and intuitively.
 
@@ -1380,7 +1380,7 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
 
 # TypeScript Development
 
-[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93133287-d1dc8a80-f68b-11ea-94d3-bba83dd5b0bb.png">
@@ -1442,11 +1442,11 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
 
 [Definitely Typed](https://github.com/DefinitelyTyped/DefinitelyTyped) ⭐ 51,445 | 🐛 685 | 🌐 TypeScript | 📅 2026-10-02 is a repository for high quality TypeScript type definitions.
 
-[TypeORM](https://github.com/typeorm/typeorm) ⭐ 36,657 | 🐛 681 | 🌐 TypeScript | 📅 2026-10-01 is an ORM that can run in NodeJS, Browser, Cordova, PhoneGap, Ionic, React Native, NativeScript, Expo, and Electron platforms and can be used with TypeScript and JavaScript (ES5, ES6, ES7, ES8).
+[TypeORM](https://github.com/typeorm/typeorm) ⭐ 36,658 | 🐛 682 | 🌐 TypeScript | 📅 2026-10-01 is an ORM that can run in NodeJS, Browser, Cordova, PhoneGap, Ionic, React Native, NativeScript, Expo, and Electron platforms and can be used with TypeScript and JavaScript (ES5, ES6, ES7, ES8).
 
 [NativeScript](https://www.nativescript.org/) empowers you to access native APIs from JavaScript directly. The framework currently provides iOS and Android runtimes for rich mobile development and can be utilized in a number of diverse use cases.
 
-[AssemblyScript](https://assemblyscript.org/) compiles a strict variant of TypeScript to [WebAssembly](http://webassembly.org/) using [Binaryen](https://github.com/WebAssembly/binaryen) ⭐ 8,649 | 🐛 579 | 🌐 WebAssembly | 📅 2026-10-03.
+[AssemblyScript](https://assemblyscript.org/) compiles a strict variant of TypeScript to [WebAssembly](http://webassembly.org/) using [Binaryen](https://github.com/WebAssembly/binaryen) ⭐ 8,649 | 🐛 580 | 🌐 WebAssembly | 📅 2026-10-03.
 
 [React Hook Form](https://react-hook-form.com/) is a performant, flexible and extensible forms with easy to use validation(Web + React Native).
 
@@ -1470,7 +1470,7 @@ Amazon EMR is the industry-leading cloud big data platform for processing vast a
 
 # Networking
 
-[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/82833053-d1687b80-9e71-11ea-8c6d-074100f2f54b.png">
@@ -1649,7 +1649,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 # Databases
 
-[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/119279004-daec0700-bbdd-11eb-9662-b1fc86ec8448.png">
@@ -1703,7 +1703,7 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 ## SQL/NoSQL Tools and Databases
 
-[Netdata](https://github.com/netdata/netdata) ⭐ 80,778 | 🐛 426 | 🌐 Go | 📅 2026-10-03 is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
+[Netdata](https://github.com/netdata/netdata) ⭐ 80,780 | 🐛 426 | 🌐 Go | 📅 2026-10-03 is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
 
 [Azure Data Studio](https://github.com/Microsoft/azuredatastudio) ⚠️ Archived is an open source data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 
@@ -1799,11 +1799,11 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 ## Contribute
 
-* [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Windows-Terminal-Guide/pulls) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04.
+* [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Windows-Terminal-Guide/pulls).
 
 ## License
 
-[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents) ⭐ 114 | 🐛 1 | 🌐 PowerShell | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Windows-Terminal-Guide#table-of-contents)
 
 Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/)
 
